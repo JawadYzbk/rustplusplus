@@ -1,0 +1,7 @@
+node_modules
+.env
+temp
+maps/*
+logs/*
+credentials/*.json
+instances/*.json
